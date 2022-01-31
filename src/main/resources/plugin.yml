@@ -1,0 +1,6 @@
+name: VanilifeBonusChestPlugin
+version: '${project.version}'
+main: net.azisaba.vanilife.vanilifebonuschest.VanilifeBonusChestPlugin
+api-version: 1.18
+authors: [ 5hak3 ]
+description: Bonus Chest Plugin for Vanilife
